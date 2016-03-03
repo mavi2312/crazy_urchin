@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app1="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.devadvance.circularseekbar.CircularSeekBar
+        android:id="@+id/circularSeekBar1"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        app1:circle_stroke_width="5.0"
+        app1:circle_x_radius="100.0"
+        app1:circle_y_radius="50.0"
+        app1:end_angle="20.0"
+        app1:maintain_equal_circle="false"
+        app1:max="@integer/maxX"
+        app1:pointer_alpha_ontouch="100"
+        app1:pointer_color="#0174DF"
+        app1:pointer_halo_border_width="4.0"
+        app1:pointer_halo_color="#880174DF"
+        app1:pointer_halo_width="2.0"
+        app1:pointer_radius="10.0"
+        app1:start_angle="160.0"
+        app1:use_custom_radii="true" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" >
+
+        <TextView
+            android:id="@+id/difficultyLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/difficulty_string"
+            android:textColor="@color/turquoise"
+            android:layout_marginRight="20dp"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/difficulty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fast_string"
+            android:textColor="@color/cyan"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</LinearLayout>

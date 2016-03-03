@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crazy Urchin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Title">Título</string>
+    <string name="newGame">Juego Nuevo</string>
+    <string name="exit">Salir</string>
+    <string name="GameEnd">Your score is </string>
+    <string name="introImage">Initial_Image</string>
+    <string name="newGameStr">New Game</string>
+    <string name="exitGame">Exit the game</string>
+    <string name="splash_title">Splash title</string>
+    <string name="loading_message">Loading</string>
+    <string name="high_score_title">High score title</string>
+    <string name="high_score_bubble">high score bubble</string>
+    <color name="turquoise">#40e0d0</color>
+    <color name="steelBlue">#4682b4</color>
+    <color name="lawnGreen">#7cfc00</color>
+    <color name="Red">#ff0000</color>
+    <string name="high_score_button">High Score to enter activity</string>
+    <string name="default_score">0</string>
+    <string name="backToMainScreen">Volver a la pantalla principal</string>
+    <string name="settings_button">Entrar a la actividad de setting</string>
+    <string name="sound_string">"Sound: "</string>
+    <color name="cyan">#00FFFF</color>
+    <string name="sound_button">boton para activar el sonido</string>
+    <string name="settings_title">Titulo de settings</string>
+    <string name="action_about">About</string>
+    <color name="white">#FFFFFF</color>
+    <string name="about_app_content1">Copyright © MavzApps 2013</string>
+    <string name="about_app_content2">All rights reserved.</string>
+    <string name="about_app_content3">No part of this application\nmay be reproduced without\nMavzApps\'s express consent.</string>
+    <string name="about_app_fonts1">The font PW Bubbles is work of Peax WebDesing.\nMore info:&lt;a href=\&quot;http://www.peax-webdesign.com\&quot;&gt;www.peax-webdesign.com&lt;/a&gt;</string>
+    <string name="about_app_fonts2">The font Smoking Tequila is work of GemFonts.\nMore info:&lt;a href=\&quot;http://www.moorstation.org/typoasis/designers/gennew/home.htm\&quot;&gt;www.moorstation.org/typoasis/designers/gemnew/home.htm&lt;/a&gt;</string>
+    <string name="about_app_erizo">Adorno de about app</string>
+    <string name="difficulty_string">Speed: </string>
+    <string name="sound_on">ON</string>
+    <string name="slow_string">Slow</string>
+    <string name="normal_string">Normal</string>
+    <string name="fast_string">Fast</string>
+    <string name="action_tutorial">Tutorial</string>
+    
+</resources>

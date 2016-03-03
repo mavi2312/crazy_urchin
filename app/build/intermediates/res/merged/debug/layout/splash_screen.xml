@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo_principal"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/about_app_erizo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/splash_title"
+        android:src="@drawable/bubble_title" />
+
+    <TextView
+        android:id="@+id/labelScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/about_app_erizo"
+        android:layout_centerHorizontal="true"
+        android:text="@string/loading_message"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/about_app_erizo"
+        android:layout_centerHorizontal="true"
+        android:max="5"
+        android:progress="0"
+        android:progressDrawable="@drawable/pg_inicio" />
+
+</RelativeLayout>

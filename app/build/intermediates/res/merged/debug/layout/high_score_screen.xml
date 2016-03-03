@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo_principal"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/about_app_erizo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/high_score_title"
+        android:src="@drawable/high_score2" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/about_app_erizo"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/high_score_bubble"
+        android:src="@drawable/burbuja_highscore" />
+
+    <TextView
+        android:id="@+id/high_score_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp"
+        android:shadowColor="@color/lawnGreen"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="4"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/turquoise"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/backButtonHS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="25dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/backToMainScreen"
+        android:src="@drawable/animacion_burbuja_volver" />
+
+</RelativeLayout>
