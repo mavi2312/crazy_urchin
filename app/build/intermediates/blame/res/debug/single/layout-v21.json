@@ -1,6 +1,22 @@
 [
     {
         "merged": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+        "source": "C:\\Users\\MariaVirginia\\.android\\build-cache\\b860f0e5e40b58199aa7347ddfd4bd28f89bd463\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\MariaVirginia\\.android\\build-cache\\2e43a14cdd9bd120dc9cf87c908233ea405edad1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\MariaVirginia\\.android\\build-cache\\2e43a14cdd9bd120dc9cf87c908233ea405edad1\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\MariaVirginia\\.android\\build-cache\\2e43a14cdd9bd120dc9cf87c908233ea405edad1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\MariaVirginia\\.android\\build-cache\\2e43a14cdd9bd120dc9cf87c908233ea405edad1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     }
 ]

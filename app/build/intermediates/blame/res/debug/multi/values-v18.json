@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\MariaVirginia\\.android\\build-cache\\2e43a14cdd9bd120dc9cf87c908233ea405edad1\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
         "map": [
             {

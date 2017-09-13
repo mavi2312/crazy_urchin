@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\MariaVirginia\\.android\\build-cache\\b1e82a57b8a8aeb3f788f4a53f73705383b500ce\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\MariaVirginia\\AndroidStudioProjects\\BubbleGame\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\MariaVirginia\\.android\\build-cache\\b1e82a57b8a8aeb3f788f4a53f73705383b500ce\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    }
+]
